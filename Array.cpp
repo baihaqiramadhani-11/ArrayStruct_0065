@@ -10,8 +10,11 @@ int main() {
 
     cout << "data ke -3 : " << dataku[2] << endl;
 
-      x = dataku[2];
+    x = dataku[2];
     dataku[2] = 600;
     cout << "data ke -3 : " << dataku[2] << endl;
+
+    cout << "data index ke - 0 : ";
+    cin  >> datamu[0];
 
 }
