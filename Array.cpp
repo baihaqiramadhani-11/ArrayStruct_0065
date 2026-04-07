@@ -22,4 +22,7 @@ int main() {
     cin  >> datamu[2];
     cout << "data index ke - 3 : ";
     cin  >> datamu[3];
+    cout << "data index ke - 4 : ";
+    cin  >> datamu[4];
+
 }
