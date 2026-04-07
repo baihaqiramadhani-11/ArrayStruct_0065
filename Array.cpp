@@ -30,4 +30,11 @@ int main() {
     cout << "data ke -3 : " << datamu[2] << endl;
     cout << "data ke -4 : " << datamu[3] << endl;
     cout << "data ke -5 : " << datamu[4] << endl;
+
+       cout << endl;
+
+    for (int i = 0; i < 5; i++){
+        cout << "data ke - " << i+1 << " : " << datamu[i] << endl;
+    }
+
 }
