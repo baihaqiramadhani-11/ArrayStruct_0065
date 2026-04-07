@@ -20,4 +20,6 @@ int main() {
     cin  >> datamu[1];  
     cout << "data index ke - 2 : ";
     cin  >> datamu[2];
+    cout << "data index ke - 3 : ";
+    cin  >> datamu[3];
 }
