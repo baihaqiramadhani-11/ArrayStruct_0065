@@ -16,5 +16,6 @@ int main() {
 
     cout << "data index ke - 0 : ";
     cin  >> datamu[0];
-
+    cout << "data index ke - 1 : ";
+    cin  >> datamu[1];  
 }
